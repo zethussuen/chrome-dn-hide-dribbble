@@ -6,3 +6,8 @@
 3. Drag and drop ```hide_dribbble_posts.crx``` into your browser window
 4. Reload https://news.layervault.com
 5. :D
+
+
+**TODO:**
+==============
+- [ ] Add icon to toolbar to unhide dribbble posts if user wants to see them
